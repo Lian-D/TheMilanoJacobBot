@@ -1,0 +1,18 @@
+{
+  "name": "sagebot",
+  "description": "Easy Boilerplate for Discord Bot",
+  "version": "0.7.2",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "cheerio": "latest",
+    "discord.js": "^11.5.1",
+    "follow-redirects": "1.9.0",
+    "mysql": ">=2.5.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "yahoo-finance": "0.3.x"
+  }
+}
